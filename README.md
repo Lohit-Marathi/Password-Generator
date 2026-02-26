@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Password Generator
 
 A simple command-line tool to generate strong, secure passwords — built with pure Python (no external libraries needed).
@@ -159,3 +160,6 @@ Generating 1 password(s) of length 12...
 
 MIT License — see [LICENSE](LICENSE) for details.
 >>>>>>> b2ae371721446b6d56bd4251575523ab9baac33d
+=======
+
+>>>>>>> 491b9f79141c6a72e48ab80d5802620bb8636386
