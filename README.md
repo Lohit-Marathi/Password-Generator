@@ -40,7 +40,7 @@ password-generator/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Lohit-Marathi/Password-Generator.git
 cd password-generator
 
 # Run it
