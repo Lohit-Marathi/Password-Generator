@@ -152,3 +152,10 @@ Generating 1 password(s) of length 12...
 ```
 
 ---
+<<<<<<< HEAD
+=======
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
+>>>>>>> b2ae371721446b6d56bd4251575523ab9baac33d
