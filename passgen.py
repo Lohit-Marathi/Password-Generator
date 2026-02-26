@@ -21,9 +21,9 @@ def parse_args():
     )
 
     parser.add_argument("-l", "--length", type=int, default=16, help="Length of the password(s) (default: 16)")
-    parser.add_argument("-n", "--number", type=int, default=1, help="Number of passwords to generate (default: 1)")
+    parser.add_argument("-n", "--count", type=int, default=1, help="Number of passwords to generate (default: 1)")
     parser.add_argument("--no-upper", dest="upper",action="store_false", help="Exclude uppercase letters")
-    parser.add_argument("--no-lower", dest="lower",action="store_false", help="Exclude lowercase letters")
+    parser.add_argument("--no-symbols", dest="symbols",action="store_false", help="Exclude symbols")
     parser.add_argument("--no-digits", dest="digits", action="store_false", help="Exclude digits")
     return parser.parse_args()
 
