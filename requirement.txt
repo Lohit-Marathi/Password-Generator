@@ -1,0 +1,6 @@
+# No external dependencies needed!
+# This project uses only Python standard library modules:
+#   - secrets  (cryptographically secure random generation)
+#   - string   (character sets)
+#   - re       (regex for strength checking)
+#   - argparse (CLI argument parsing)
